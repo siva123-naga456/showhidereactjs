@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button-card {
+  color: #dd1264;
+  font-size: 12px;
+  font-family: Roboto;
+  border-radius: 8px;
+  background-color: #ffffff;
+  width: 140px;
+  height: 30px;
+  border: none;
+  margin-right: 50px;
+  cursor: pointer;
+}
+.sub-container {
+  display: flex;
+  flex-direction: row;
+}
+.sub-container1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #fddddb;
+  width: 300px;
+  height: 150px;
+  border-radius: 8px;
+  text-align: center;
+  color: #000000;
+  font-size: 24px;
+  font-family: Roboto;
+  margin: 50px;
+}
